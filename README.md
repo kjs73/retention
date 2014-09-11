@@ -8,3 +8,5 @@ http://arxiv.org/abs/1111.0425, and
 http://arxiv.org/abs/1403.2082.
 
 Setting BOOSTPATH to point to a recent boost release and using the CMake file should be enough to compile the program.
+
+![](https://github.com/kjs73/retention/images/fig1.jpg)
