@@ -9,4 +9,6 @@ http://arxiv.org/abs/1403.2082.
 
 Setting BOOSTPATH to point to a recent boost release and using the CMake file should be enough to compile the program.
 
+cmake CMakeLists.txt; make; ./wr_main
+
 ![](https://github.com/kjs73/retention/blob/master/images/fig1.jpg)
