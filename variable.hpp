@@ -1,9 +1,9 @@
 #ifndef VARIABLE_HPP_KJS
 #define VARIABLE_HPP_KJS
 
-#include <iostream>
-#include <fstream>
 #include <cmath>
+#include <fstream>
+#include <iostream>
 #include <limits>
 #include <stdexcept>
 

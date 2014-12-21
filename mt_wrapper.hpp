@@ -1,7 +1,9 @@
 #ifndef MT_WRAPPER_HPP_KJS
 #define MT_WRAPPER_HPP_KJS
+
 #include <boost/random/mersenne_twister.hpp>
 #include <boost/random/uniform_01.hpp>
+
 class mt_wrapper{
 public:
     mt_wrapper():uni01(rng){}

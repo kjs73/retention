@@ -1,8 +1,8 @@
 #ifndef RANKING_UNIFORM_SELECTION_HPP_KJS
 #define RANKING_UNIFORM_SELECTION_HPP_KJS
 
-#include <map>
 #include <cassert>
+#include <map>
 
 #include "mt_wrapper.hpp"
 

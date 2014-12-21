@@ -3,10 +3,10 @@
 
 #include <algorithm>
 
-#include "lattice_strip_square_2d.hpp"
-#include "ranking_uniform_selection.hpp"
-#include "maximum_acc.hpp"
 #include "discrete_random_surface.hpp"
+#include "lattice_strip_square_2d.hpp"
+#include "maximum_acc.hpp"
+#include "ranking_uniform_selection.hpp"
 
 template<class T, class U, class SURF>
 class retention_finder{

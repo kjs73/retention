@@ -1,12 +1,12 @@
 #ifndef WRC_GC_DISCRETE_INVASION_HPP_KJS
 #define WRC_GC_DISCRETE_INVASION_HPP_KJS
 
-#include "progress.hpp"
-#include "precise_output.hpp"
-#include "parameter.hpp"
-#include "variable.hpp"
 #include "discrete_random_surface.hpp"
+#include "parameter.hpp"
+#include "precise_output.hpp"
+#include "progress.hpp"
 #include "retention_finder.hpp"
+#include "variable.hpp"
 
 class wrc_gc_discrete_invasion{
 public:

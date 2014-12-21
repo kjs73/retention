@@ -3,10 +3,10 @@
 
 #include <iostream>
 #include <fstream>
-#include <string>
 #include <limits>
-#include <stdexcept>
 #include <limits.h>
+#include <stdexcept>
+#include <string>
 
 template <class F>
 class precise_output: public std::ofstream{

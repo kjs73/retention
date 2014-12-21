@@ -2,8 +2,8 @@
 #define PROGRESS_HPP_KJS
 
 #include <ctime>
-#include <utility>
 #include <iostream>
+#include <utility>
 
 class progress{
 public:
