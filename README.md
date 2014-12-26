@@ -12,7 +12,7 @@ For visualisations, see:
 http://youtu.be/mLCP8pdLvao and
 http://youtu.be/2Fq8QqG1jL0.
 
-Setting BOOSTPATH to point to a recent boost release and using the CMake file should be enough to compile the program.
+Setting BOOSTPATH to point to a recent boost release (http://www.boost.org) and using the CMake file should be enough to compile the program.
 
 cmake CMakeLists.txt; make; ./wr_main
 
