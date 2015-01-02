@@ -14,5 +14,6 @@ private:
     boost::random::mt19937 rng;
     boost::random::uniform_01<boost::random::mt19937&> uni01;
 };
+
 #endif // #ifndef MT_WRAPPER_HPP_KJS
 
